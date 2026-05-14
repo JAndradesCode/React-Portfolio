@@ -83,8 +83,8 @@ export const About = () => {
                   Northern Arizona University (2026-2030)
                 </li>
                 <li>
-                  Relevant Coursework: Data Structures, Web Development, Cloud
-                  Computing...
+                  Relevant Coursework: Data Structures, Web Development,
+                  Database infrustructure...
                 </li>
               </ul>
             </div>
@@ -94,22 +94,24 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Software Engineer at ABC Corp (2020 - Present){" "}
+                    Intern at Sunrise Mountain High School - Peoria Student
+                    Broadcasting Network (2025 - 2026){" "}
                   </h4>
                   <p>
-                    Developed and maintained microservices for cloud-based
-                    applications.
+                    Wrote and edited scripts and managed projects for daily
+                    broadcasting show.
                   </p>
                 </div>
 
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Intern at DEF Startups (2019){" "}
+                    Intern at Sunrise Mountain High School - Software
+                    Development (2025 - 2026){" "}
                   </h4>
                   <p>
-                    Assisted in building front-end components and integration
-                    REST APIs
+                    Explored utilities of JavaScript regarding video editing
+                    software and animation.
                   </p>
                 </div>
               </div>
