@@ -71,8 +71,16 @@ export const About = () => {
               <h3 className="text-xl font-bold mb-4"> Education </h3>
               <ul className="list-disc list-inside text-gray-300 space-y-2">
                 <li>
-                  <strong> B.S. in Computer Science </strong> - XYZ University
-                  (2016-2020)
+                  <strong>Graduated Sunrise Mountain High School</strong>{" "}
+                  (2022-2026)
+                </li>
+                <li>
+                  <strong>Graduated West-MEC</strong> - Coding Program
+                  (2024-2026)
+                </li>
+                <li>
+                  <strong> Attaining B.S. in Computer Science </strong> -
+                  Northern Arizona University (2026-2030)
                 </li>
                 <li>
                   Relevant Coursework: Data Structures, Web Development, Cloud
